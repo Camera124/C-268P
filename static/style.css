@@ -6,9 +6,6 @@ body{
 input[type=file] {
     display:inline-block;
     }
-img {
-    width:70%;
-    }
 h3{
     color:green;
     }
